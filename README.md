@@ -1,4 +1,4 @@
-# Task 4: PuLP Optimization — Maximize Bakery Profit
+# Task 4 PuLP Optimization — Maximize Bakery Profit
 
 *COMPANY* : CODTECH IT SOLUTIONS
 
